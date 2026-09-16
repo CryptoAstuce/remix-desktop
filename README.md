@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture documentaire en francais de cette version historique de Remix Desktop est disponible dans [docs/fr/README.md](docs/fr/README.md). Elle couvre Electron, fichiers locaux, IPC, packaging, reseaux et limites. Le depot amont indique que cette version est obsolete.
+
 [![Join the chat at https://gitter.im/ethereum/remix](https://badges.gitter.im/ethereum/remix.svg)](https://gitter.im/ethereum/remix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## DEPRECATED
